@@ -1,0 +1,13 @@
+D:\INTROPROG2\object orientated\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+D:\INTROPROG2\object orientated\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+D:\INTROPROG2\object orientated\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+D:\INTROPROG2\object orientated\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+D:\INTROPROG2\object orientated\demo\bin\Debug\netcoreapp3.1\demo.exe
+D:\INTROPROG2\object orientated\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+D:\INTROPROG2\object orientated\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+D:\INTROPROG2\object orientated\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+D:\INTROPROG2\object orientated\demo\bin\Debug\netcoreapp3.1\demo.dll
+D:\INTROPROG2\object orientated\demo\bin\Debug\netcoreapp3.1\demo.pdb
+D:\INTROPROG2\object orientated\demo\obj\Debug\netcoreapp3.1\demo.dll
+D:\INTROPROG2\object orientated\demo\obj\Debug\netcoreapp3.1\demo.pdb
+D:\INTROPROG2\object orientated\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
