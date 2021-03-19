@@ -25,7 +25,7 @@ namespace demo
 
            
           
-                 public virtual string ToString() // special methods that tells us about the object
+                 public override string ToString() // special methods that tells us about the object
                   {
                  return "I am a rectangle with length " + length;
                   }

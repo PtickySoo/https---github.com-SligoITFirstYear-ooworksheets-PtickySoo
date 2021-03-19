@@ -1,8 +1,8 @@
 using System;
 
-namespace Circle
+namespace demo
 {
-    class Radius
+    class Circle
     {
       private int radius;
 

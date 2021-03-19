@@ -6,6 +6,12 @@ namespace demo
     {
         static void Main(string[] args)
         {
+            
+            Circle roundy = new Circle();
+            Console.WriteLine(roundy.GetArea());
+            roundy.Radius = 10;
+            Console.WriteLine(roundy.GetArea());
+
             Rectangle box1;// declare variable of type rectangle
             box1 = new Rectangle(); // creating an object of type  Rectangle
 
